@@ -1,7 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MX-FOR/Minimum-of-a-fuction-with-Data-and-Machine-Learning/HEAD)
-
-
-
 
 Articulo Original 
 
